@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 30 140 140" width="32" height="32">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M2 2L8 5L2 8" fill="none" stroke="#E8553A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M2 2L8 5L2 8" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <circle cx="100" cy="100" r="58" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <circle cx="65" cy="72" r="26" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+  <circle cx="65" cy="72" r="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <circle cx="65" cy="72" r="7" fill="#E8553A"/>
+  <circle cx="135" cy="128" r="26" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+  <circle cx="135" cy="128" r="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <circle cx="135" cy="128" r="7" fill="rgba(255,255,255,0.3)" stroke="rgba(255,255,255,0.5)" stroke-width="1"/>
+  <path d="M80 66 Q130 44 130 112" fill="none" stroke="#E8553A" stroke-width="3" stroke-linecap="round" marker-end="url(#a)"/>
+  <path d="M120 134 Q70 156 70 88" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" marker-end="url(#b)"/>
+</svg>
